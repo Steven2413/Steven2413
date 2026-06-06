@@ -16,6 +16,8 @@ A lo largo de mi formación he adquirido experiencia en diferentes tecnologías 
 - HTML
 - CSS
 - JavaScript
+- TypeScript
+- Astro
 
 **Backend:**
 - PHP
