@@ -33,6 +33,7 @@ Bases de datos
 Herramientas
 
 -GitHub
--Excel Avanzado
+*Excel Avanzado
 
 Además, disfruto aprender nuevas tecnologías, aplicar buenas prácticas de desarrollo y crear proyectos que me permitan seguir creciendo profesionalmente. Mi objetivo es desarrollarme como ingeniero de software y contribuir en la creación de soluciones tecnológicas que aporten valor a las personas y organizaciones.
+---
