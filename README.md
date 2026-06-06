@@ -14,26 +14,25 @@ A lo largo de mi formación he adquirido experiencia en diferentes tecnologías 
 
 Frontend
 
-HTML
-CSS
-JavaScript
-TypeScript
-Astro
+-HTML
+-CSS
+-JavaScript
+-TypeScript
+-Astro
 
 Backend
 
-PHP
-Laravel
+-PHP
+-Laravel
 
 Bases de datos
 
-MySQL
-SQLite
+-MySQL
+-SQLite
 
 Herramientas
 
-Git
-GitHub
-Excel Avanzado
+-GitHub
+-Excel Avanzado
 
 Además, disfruto aprender nuevas tecnologías, aplicar buenas prácticas de desarrollo y crear proyectos que me permitan seguir creciendo profesionalmente. Mi objetivo es desarrollarme como ingeniero de software y contribuir en la creación de soluciones tecnológicas que aporten valor a las personas y organizaciones.
