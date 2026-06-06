@@ -12,28 +12,21 @@ Actualmente me encuentro fortaleciendo mis conocimientos a través de proyectos 
 
 A lo largo de mi formación he adquirido experiencia en diferentes tecnologías utilizadas en el desarrollo web y de aplicaciones:
 
-Frontend
+**Frontend:**
+- HTML
+- CSS
+- JavaScript
 
--HTML
--CSS
--JavaScript
--TypeScript
--Astro
+**Backend:**
+- PHP
+- Laravel
 
-Backend
+**Bases de datos:**
+- MySQL
+- SQLite
 
--PHP
--Laravel
-
-Bases de datos
-
--MySQL
--SQLite
-
-Herramientas
-
--GitHub
-*Excel Avanzado
+**Herramientas:**
+- GitHub
+- Excel Avanzado
 
 Además, disfruto aprender nuevas tecnologías, aplicar buenas prácticas de desarrollo y crear proyectos que me permitan seguir creciendo profesionalmente. Mi objetivo es desarrollarme como ingeniero de software y contribuir en la creación de soluciones tecnológicas que aporten valor a las personas y organizaciones.
----
