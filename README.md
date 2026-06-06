@@ -8,46 +8,32 @@ Actualmente me encuentro fortaleciendo mis conocimientos a través de proyectos 
 
 ---
 
-## 💻 Tecnologías con las que trabajo
+💻 Tecnologías con las que trabajo
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+A lo largo de mi formación he adquirido experiencia en diferentes tecnologías utilizadas en el desarrollo web y de aplicaciones:
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+Frontend
 
-### 🗄️ Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+HTML
+CSS
+JavaScript
+TypeScript
+Astro
 
-### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+Backend
 
----
+PHP
+Laravel
 
-## 📊 GitHub Stats
+Bases de datos
 
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=STEVEN1147&show_icons=true&theme=radical)
+MySQL
+SQLite
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STEVEN1147&layout=compact&theme=radical)
+Herramientas
 
----
+Git
+GitHub
+Excel Avanzado
 
-## 🎯 Mis objetivos
-
-Además, disfruto aprender nuevas tecnologías, aplicar buenas prácticas de desarrollo y crear proyectos que me permitan seguir creciendo profesionalmente. 
-
-Mi objetivo es desarrollarme como **ingeniero de software** y contribuir en la creación de soluciones tecnológicas que aporten valor a las personas y organizaciones.
-
----
-
-## 📫 Conectemos
-
-[![GitHub](https://img.shields.io/badge/GitHub-STEVEN1147-181717?style=for-the-badge&logo=github)](https://github.com/STEVEN1147)
+Además, disfruto aprender nuevas tecnologías, aplicar buenas prácticas de desarrollo y crear proyectos que me permitan seguir creciendo profesionalmente. Mi objetivo es desarrollarme como ingeniero de software y contribuir en la creación de soluciones tecnológicas que aporten valor a las personas y organizaciones.
