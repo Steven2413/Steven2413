@@ -8,7 +8,7 @@ Actualmente me encuentro fortaleciendo mis conocimientos a través de proyectos 
 
 ---
 
-💻 Tecnologías con las que trabajo
+💻 Habilidades Técnicas
 
 A lo largo de mi formación he adquirido experiencia en diferentes tecnologías utilizadas en el desarrollo web y de aplicaciones:
 
